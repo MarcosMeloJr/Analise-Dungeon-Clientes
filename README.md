@@ -18,20 +18,20 @@
 <br />
 
 # Perguntas de Negócio
-Para fornecer um quadro geral dos insights a partir dos dados fornecidos, decidimos junto com a proprietária, que deveríamos responder as seguintes perguntas:
+Com o objetivo de fornecer um quadro geral dos insights a partir dos dados fornecidos, foi decidido que deveriam ser respondidas as seguintes perguntas: 
  
-- Como ficou a situação financeira da empresa nesse último trimestre?
-- Qual o ticket médio dos produtos oferecidos?
-- Quais os produtos mais populares?
-- Quais clientes mais contribuíram para a empresa?
+- Quantos associados há na carteira de clientes?
+- Qual o valor total investido, de crédito tomado e de consórcios feito? (Adicione filtros para analisar por área)
+- Mostre se houve evolução na aquisição dos clientes?
+- Quantos clientes estão ativos e quantos usam PIX?
 
-Após determinar quais perguntas eram importantes, recebemos os dados necessários para as análises. A partir deles conseguiríamos responder as questões previamente levantadas com a finalidade de obtermos insights valiosos que ajudariam a empresa a tomar decisões mais assertivas.
+  Respondidas essas perguntas, as respostas fornecerão um quadro geral do cenário atual e do comportamento dos nossos associados, permitindo uma compreensão mais aprofundada de suas necessidades e padrões de movimentação financeira.
 
 
 <br />
 
 # Mapeamento dos Dados
-- Os dados do trimestre se encontram em planilhas do Excel separadas por mês (Julho, Agosto e Setembro)
+- Os dados foram planilhados e estruturados no Excel.
  <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Bases%20Excel%20.png">
 
  
@@ -40,17 +40,23 @@ Após determinar quais perguntas eram importantes, recebemos os dados necessári
 
 
 # Prototipação
-Com as perguntas de negócio estabelecidas e após uma rápida análise dos dados disponíveis, foi feito o protótipo inicial pela ferramenta Paint. Nela decidimos como poderia ser o design e como as informações ficariam dispostas. Posteriormente fizemos o protótipo definitivo pela ferramenta Figma utilizando as cores base da empresa e a logo que nos foi fornecida.
+A prototipação foi realizada utilizando a ferramenta Figma, permitindo visualizar uma prévia de como ficará a entrega final. Foi utilizado o Adobe Color para extrair o número HEX de cada cor.
+
 #### Protótipo 1
  <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Prot%C3%B3tipo%20Ateli%C3%AA.png">
 
-#### Protótipo 2
-  <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Prot%C3%B3tipo%202%20Ateli%C3%AA%20(1).png">
 
 # ETL (Extração, Transformação e Carregamento)
 ### Preparação dos dados
-- Após o recebimento das planilhas realizamos o tratamento e a formatação dos dados. Nessa fase foi corrigido erros que afetariam a precisão da análise, como nomes duplicados, produtos com nomes diferentes, valores nulos, entre outros. Além disso foram criadas mais duas tabelas dimensões tornando mais fácil a manipulação dos dados. 
-Terminada essa etapa, exportamos a base de dados para a ferramenta de visualização Power BI onde começaríamos a construção dos insights, no entanto, era necessário realizar a modelagem adequada dos dados, por isso construímos os relacionamentos corretos entre as tabelas fato – dimensão.
+- 	Extração da base fornecida para o Power Query;
+-   Limpeza de dados inconsistentes;
+-   Coluna Investimentos: Subst. Valores: Hífen por “vazio”;
+-   Mudança dos tipos de coluna: Data e Hora para Data, Texto para Número Decimal Fixo;
+-   Arredondamento das casas decimais (2 casas);
+-   Substituição de valores textuais para melhor leitura;
+-   Alteração da nomenclatura dos cabeçalhos;
+-   Carregamento dos dados limpos para o Power BI.
+
  <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Modelagem.png">
  
  
@@ -61,7 +67,7 @@ Terminada essa etapa, exportamos a base de dados para a ferramenta de visualiza�
  
   
 # Dashboard Interativo
-Com os dados devidamente tratados, começamos a criação de visuais com dados estatísticos pertinentes que serviriam de base para respondermos as perguntas propostas no início. Foram necessárias criar algumas medidas utilizando fórmulas DAX, além de adcionarmos um Tooltip em um dos gráficoss para trazer informações extras a respeito do cliente.
+Com os dados devidamente processados, começamos a elaboração de visualizações com dados estatísticos pertinentes, que servirão como base para responder às questões propostas inicialmente. Foi necessário desenvolver algumas medidas utilizando fórmulas DAX para melhor analisar os dados e extrair insights significativos.
 
 - [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiMmM5NjBhMjUtMzkyMy00ZmVjLWI1ZWEtNDZhZWNhZmQ0NWFkIiwidCI6ImI2ZTUxYmY3LTlmNjItNDM0Ny1hYTk1LTlhYzljMjI2OTFlOCJ9)
 
