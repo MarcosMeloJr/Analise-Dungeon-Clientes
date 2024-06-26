@@ -5,7 +5,7 @@
 # Sobre o Projeto:
 - O objetivo primário deste projeto é desenvolver um painel que demonstre o cenário e o perfil dos associados que possuem conta na Cooperativa Dungeon. Utilizando uma base fictícia de dados, o painel fornecerá informações detalhadas sobre agência, carteira e conta dos associados, além de segmentá-los em PF (Pessoa Física), PJ (Pessoa Jurídica) e Agro.
 
--Este painel será uma ferramenta essencial para as equipes da cooperativa, auxiliando nas tomadas de decisões estratégicas para aumentar o volume de associados. Através da análise detalhada dessas informações, espera-se identificar insights valiosos que contribuirão para a captação e retenção de membros, além de proporcionar uma visão clara do perfil e comportamento financeiro dos associados.
+  -Este painel será uma ferramenta essencial para as equipes da cooperativa, auxiliando nas tomadas de decisões estratégicas para aumentar o volume de associados. Através da análise detalhada dessas informações, espera-se identificar insights valiosos que contribuirão para a captação e retenção de membros, além de proporcionar uma visão clara do perfil e comportamento financeiro dos associados.
 <br />
 
 # Etapas do Projeto (DataOps)
