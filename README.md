@@ -1,6 +1,6 @@
 # Projeto de Análise da Empresa de Crédito Dungeon
 <div style="display: flex; justify-content: space-between;"> <br>
-<img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/atelie-de-costura.jpg">
+<img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Capa.jpeg">
   
 # Sobre o Projeto:
 - O objetivo primário deste projeto é desenvolver um painel que demonstre o cenário e o perfil dos associados que possuem conta na Cooperativa Dungeon. Utilizando uma base fictícia de dados, o painel fornecerá informações detalhadas sobre agência, carteira e conta dos associados, além de segmentá-los em PF (Pessoa Física), PJ (Pessoa Jurídica) e Agro.
@@ -32,7 +32,7 @@ Com o objetivo de fornecer um quadro geral dos insights a partir dos dados forne
 
 # Mapeamento dos Dados
 - Os dados foram planilhados e estruturados no Excel.
- <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Bases%20Excel%20.png">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Base%20Original.jpeg">
 
  
 <br />
@@ -43,7 +43,7 @@ Com o objetivo de fornecer um quadro geral dos insights a partir dos dados forne
 A prototipação foi realizada utilizando a ferramenta Figma, permitindo visualizar uma prévia de como ficará a entrega final. Foi utilizado o Adobe Color para extrair o número HEX de cada cor.
 
 #### Protótipo 1
- <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Prot%C3%B3tipo%20Ateli%C3%AA.png">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Dungeon.png">
 
 
 # ETL (Extração, Transformação e Carregamento)
@@ -57,7 +57,7 @@ A prototipação foi realizada utilizando a ferramenta Figma, permitindo visuali
 -   Alteração da nomenclatura dos cabeçalhos;
 -   Carregamento dos dados limpos para o Power BI.
 
- <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Modelagem.png">
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Base%20Formatada.jpeg">
  
  
 <br />
