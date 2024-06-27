@@ -86,11 +86,12 @@ Com os dados devidamente processados, começamos a elaboração de visualizaçõ
 # Descobertas e Insights
 <img width="1000" src="https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Insights.png">
 
-Terminada a construção visual e realizada acurada análise do material notou-se as seguintes percepções:
-- A margem de lucro líquido representou 59% do faturamento da empresa. Uma margem de lucro líquido de 59% é relativamente alta e indica que a empresa está gerando um lucro significativo em relação ao seu faturamento. Isso pode ser considerado um sinal positivo de saúde financeira da empresa.
-- O ticket médio foi de R$ 6,11. Um ticket médio baixo pode indicar que os produtos ou serviços da empresa são relativamente acessíveis ou que a empresa pode atender a um grande volume de clientes.
-- O produto mais vendido foi a Xuxa representando 84% das vendas realizadas no trimestre.
-- Foi identificado o Top 3 Clientes que mais contribuíram para a receita ao longo dos três meses.
+Após a finalização do dashboard e a realização de uma análise minuciosa do material, foram observados os seguintes insights:
+-A cooperativa possui um total de 17.155 associados, mostrando um tamanho de base significativo.
+- Houve um aumento considerável no número de associados adquiridos desde 2016 até 2021.
+- 70% dos clientes estão ativos, movimentando suas contas nos últimos 180 dias, o que reflete uma base de associados engajada.
+- 90% dos associados possuem contas com Pix, mostrando uma alta adoção de tecnologias de pagamento modernas.]
+- Menos de 1% dos associados não são correntistas, indicando que a maioria dos associados utiliza os serviços bancários oferecidos pela cooperativa.
 
  
  <br />
@@ -98,11 +99,11 @@ Terminada a construção visual e realizada acurada análise do material notou-s
  
  
  # Recomendações ao tomador de decisão
-Em seguida foram apresentadas algumas alternativas, baseadas nas análises realizadas, que pudessem melhorar as vendas no próximo trimestre:
-- Melhor administração do estoque, uma vez que é conhecido os produtos mais populares. Dessa forma agilizaria o tempo de entrega e aumentaria a satisfação dos clientes.
-- Possibilidade de ajuste na estratégia de marketing para aumentar a venda dos produtos menos populares;
-- Utilizar estratégias de fidelização para os clientes que mais contribuíram (Top 3 Clientes) permanecerem adquirindo produtos.   Ex: Programa de pontos: Eles receberiam pontos a cada compra e trocariam por descontos, produtos gratuitos ou brindes exclusivos.   2) Acesso antecipado a lançamentos de produtos novos. 
-- Implementação de um sistema de brindes ou amostras grátis para surpreender e agradar os clientes aumentando assim a preferência pela marca. Altamente recomendado para clientes esporádicos, visando fidelizá-los.
+Com base nos insights alcançados, algumas alternativas foram propostas aos dirigentes para que a empresa possa aprimorar seus resultados:
+- Aumentar a Captação de Crédito: Incentivar os associados a utilizarem mais as linhas de crédito disponíveis, oferecendo condições atrativas e campanhas de conscientização sobre as vantagens de tomar crédito na cooperativa;
+- Expandir o Uso do Pix: Aproveitar a alta adoção do Pix para oferecer novos serviços e facilidades. Programas de cashback ou descontos em transferências seriam interessantes para aumentar a fidelização dos associados;
+- Engajar Associados Inativos: Implementar programas de reativação para os 30% de associados que não estão ativos. Oferecer benefícios exclusivos ou facilidades para motivá-los a movimentar suas contas novamente;
+- Investigar o Crescimento na Adesão: Manter e intensificar as estratégias que levaram ao aumento considerável de associados entre 2016 e 2021. Isso pode incluir campanhas de marketing direcionadas, programas de indicação e a melhoria contínua dos serviços oferecidos.
 
 
 <br />
