@@ -69,11 +69,11 @@ A prototipação foi realizada utilizando a ferramenta Figma, permitindo visuali
 # Dashboard Interativo
 Com os dados devidamente processados, começamos a elaboração de visualizações com dados estatísticos pertinentes, que servirão como base para responder às questões propostas inicialmente. Foi necessário desenvolver algumas medidas utilizando fórmulas DAX para melhor analisar os dados e extrair insights significativos.
 
-- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiMmM5NjBhMjUtMzkyMy00ZmVjLWI1ZWEtNDZhZWNhZmQ0NWFkIiwidCI6ImI2ZTUxYmY3LTlmNjItNDM0Ny1hYTk1LTlhYzljMjI2OTFlOCJ9)
+- [Clique aqui para visualizar o dashboard de maneira interativa](https://app.powerbi.com/view?r=eyJrIjoiODY4NWJlNjItMThjYy00MDNjLTg0ZGItZmE0ZTkxMzI1YmIzIiwidCI6ImI2ZTUxYmY3LTlmNjItNDM0Ny1hYTk1LTlhYzljMjI2OTFlOCJ9)
 
 <br />
  
-![DASHBOARD](https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/Dashboard%20Completo.png)
+![DASHBOARD](https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Dashboard.png)
 
 
 
