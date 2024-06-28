@@ -99,6 +99,9 @@ Após a finalização do dashboard e a realização de uma análise minuciosa do
  
  
  # Recomendações ao tomador de decisão
+
+ <img width="1000" alt="Imagem dados" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Recomenda%C3%A7%C3%B5es.jpg">
+ 
 Com base nos insights alcançados, algumas alternativas foram propostas aos dirigentes para que a empresa possa aprimorar seus resultados:
 - Aumentar a Captação de Crédito: Incentivar os associados a utilizarem mais as linhas de crédito disponíveis, oferecendo condições atrativas e campanhas de conscientização sobre as vantagens de tomar crédito na cooperativa;
 - Expandir o Uso do Pix: Aproveitar a alta adoção do Pix para oferecer novos serviços e facilidades. Programas de cashback ou descontos em transferências seriam interessantes para aumentar a fidelização dos associados;
