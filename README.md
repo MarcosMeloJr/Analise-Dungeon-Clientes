@@ -3,7 +3,7 @@
 <img width="1000" alt="netflix" src="https://github.com/MarcosMeloJr/Analise-Dungeon-Clientes/blob/main/Capa.jpeg">
   
 # Sobre o Projeto:
-- O objetivo primário deste projeto é desenvolver um painel que demonstre o cenário e o perfil dos associados que possuem conta na Cooperativa Dungeon. Utilizando uma base fictícia de dados, o painel fornecerá informações detalhadas sobre agência, carteira e conta dos associados, além de segmentá-los em PF (Pessoa Física), PJ (Pessoa Jurídica) e Agro.
+- O objetivo primário deste projeto é desenvolver um painel que demonstre o cenário e o perfil dos associados que possuem conta na fictícia Cooperativa de Crédito Dungeon. Utilizando uma base fictícia de dados, o painel fornecerá informações detalhadas sobre agência, carteira e conta dos associados, além de segmentá-los em PF (Pessoa Física), PJ (Pessoa Jurídica) e Agro (Agronegócios).
 - Este painel será uma ferramenta essencial para as equipes da cooperativa, auxiliando nas tomadas de decisões estratégicas para aumentar o volume de associados. Através da análise detalhada dessas informações, espera-se identificar insights valiosos que contribuirão para a captação e retenção de membros, além de proporcionar uma visão clara do perfil e comportamento financeiro dos associados.
 <br />
 
@@ -21,8 +21,8 @@
 Com o objetivo de fornecer um quadro geral dos insights a partir dos dados fornecidos, foi decidido que deveriam ser respondidas as seguintes perguntas: 
  
 - Quantos associados há na carteira de clientes?
-- Qual o valor total investido, de crédito tomado e de consórcios feito? (Adicione filtros para analisar por área)
-- Mostre se houve evolução na aquisição dos clientes?
+- Qual o valor total investido, de crédito tomado e de consórcios feito? (Olhar de maneira geral e específica por área)
+- Houve evolução na aquisição dos clientes?
 - Quantos clientes estão ativos e quantos usam PIX?
 
   Respondidas essas perguntas, as respostas fornecerão um quadro geral do cenário atual e do comportamento dos nossos associados, permitindo uma compreensão mais aprofundada de suas necessidades e padrões de movimentação financeira.
@@ -108,10 +108,3 @@ Com base nos insights alcançados, algumas alternativas foram propostas aos diri
 
 <br />
 
-# BÔNUS - Dica de Ferramenta - Tooltip
-- As dicas de ferramentas no Power BI permitem análises dentro de outras análises, conforme mostrado no vídeo abaixo.
- 
-
-
-
-https://github.com/MarcosMeloJr/Projeto-Atelie/blob/main/ToolTip%20Ateli%C3%AA.mp4
